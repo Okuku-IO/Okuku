@@ -9,7 +9,7 @@ okuku-docs-website:
 on:
   push:
     branches:
-      - max-serverless-app
+      - docs-website-dev
 
 jobs:
   deploy:
