@@ -1,4 +1,4 @@
 okuku-docs-website:
   component: "@sls-next/serverless-component@3.7.0"
   inputs:
-    domain: "maxdesigns.dev" 
+    domain: "maxdesigns.dev"

@@ -1,6 +1,6 @@
 {
   "name": "armzxs-75lnhbq",
-  "hash": "Nai+MpWDH3DF/R8spijC5kKjBi3CqYdNR/YmNrO95NI=",
+  "hash": "PvYEB2w+kyrHu68QcoCIPjxpRAUrZtsjCd9RKeFxJdo=",
   "description": "API Lambda@Edge for Next CloudFront distribution",
   "memory": 512,
   "timeout": 10,
