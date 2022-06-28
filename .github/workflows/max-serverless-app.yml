@@ -1,6 +1,11 @@
 name: Deploy Lambda 
 # Just the name of the workflow
 
+okuku-docs-website:
+  component: "@sls-next/serverless-component@3.7.0"
+  inputs:
+    domain: "maxdesigns.dev" 
+
 on:
   push:
     branches:
