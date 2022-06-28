@@ -7,9 +7,6 @@ on:
       - docs-website-dev
 
 jobs:
-  component: "@sls-next/serverless-component@3.7.0"
-  inputs:
-    domain: "maxdesigns.dev" 
   deploy:
     name: deploy
     runs-on: ubuntu-latest
