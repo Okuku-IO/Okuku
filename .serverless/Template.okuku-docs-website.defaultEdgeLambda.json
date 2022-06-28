@@ -1,0 +1,17 @@
+{
+  "name": "armzxs-t8p6o8a",
+  "hash": "7sDe0f6BzSQOw6OW6MgRzaAKsbSB7CO4p67S50GIuVE=",
+  "description": "Default Lambda@Edge for Next CloudFront distribution",
+  "memory": 512,
+  "timeout": 10,
+  "code": "/Users/MaxwellShick/Documents/Codesmith/vs-code/Okuku/website/Okuku/.serverless_nextjs/default-lambda",
+  "shims": [],
+  "handler": "index.handler",
+  "runtime": "nodejs14.x",
+  "env": {},
+  "role": {
+    "arn": "arn:aws:iam::849178333703:role/armzxs-cbt8qx"
+  },
+  "arn": "arn:aws:lambda:us-east-1:849178333703:function:armzxs-t8p6o8a",
+  "region": "us-east-1"
+}
