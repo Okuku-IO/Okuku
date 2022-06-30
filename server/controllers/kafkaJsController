@@ -1,0 +1,12 @@
+const { Kafka } = require('kafkajs');
+
+const kafkaController = {};
+
+kafkaController.writeTopicsAndMessages = (req, res, next) => {
+  const kafka = new Kafka({
+    clientid: 'kafka-dev-clusters',
+    brokers: []
+  })
+}
+
+module.exports = kafkaController;
